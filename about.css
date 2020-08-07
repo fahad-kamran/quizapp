@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+    font-family: cursive;
+    background-color: #0080ff;
+}
+.main{
+  
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+}
+h1{
+    background-color: #c02f1d;
+    color: white;
+    padding: 10px 20px;
+}
+p{
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 20%;
+    color: white;
+    text-align: justify;
+    text-transform: capitalize;
+}
+button{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: #c02f1d;
+    color: white;
+    padding: 10px; 
+}
+.flex{
+     display: flex; 
+}

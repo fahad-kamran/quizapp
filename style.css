@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+    font-family: cursive;
+}
+
+.main{
+    background-color: #0080ff;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+}
+a{
+    padding: 10px 20px;
+    background-color: #c02f1d;
+    color: white;
+    text-decoration: none; 
+}
+
+.margin{
+    margin-top: 30px;
+}
+a:hover{
+    background-color:#ad2a1a;
+}
+
+
+
+
